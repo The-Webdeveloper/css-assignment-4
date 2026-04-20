@@ -1,0 +1,29 @@
+body{
+
+    background-image: url(./image/background-image.jpg);
+    background-size: 220vh 100vh;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    border:1px solid transparent;
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.9);
+    margin-top: 40px;
+    background: rgba(0, 0, 0, 0.57);
+}
+.heading{
+    color: white;
+    padding-top: 20px;
+    margin-left: 40px;
+    font-size: 30px;
+}
+.para{
+    color: white;
+    margin: 40px;
+}
