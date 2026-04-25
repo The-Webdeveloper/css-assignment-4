@@ -6,6 +6,7 @@ body{
     display: flex;
     justify-content: center;
     align-items:center ;
+    background-attachment:fixed;
 }
 .container{
     width: 500px;
